@@ -1,0 +1,8 @@
+body {
+  background-color: lightgreen;
+  text-align: center;
+}
+
+ol li { text-align: center;
+  width:300px; 
+  }
